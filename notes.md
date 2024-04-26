@@ -1,5 +1,9 @@
 # Crypto Candy Crush
 
+## Questions
+* If gameplay happens all on frontend, how to ensure no cheating, fair enforcement of rules, players can't modify scores or send a score to contract without playing game?
+
+
 ## Getting Started
 ### Installation
 * `curl -L https://foundry.paradigm.xyz | bash`
@@ -33,7 +37,3 @@
 
 
 ## Frontend Gameplay
-
-
-## Questions
-* What if no market for token (strictly earned from gameplay), but sales of NFTs?
