@@ -2,6 +2,7 @@
 
 ## Questions
 * If gameplay happens all on frontend, how to ensure no cheating, fair enforcement of rules, players can't modify scores or send a score to contract without playing game?
+    * Possible need for contract (or oracle) to verify scores and send to CRUSH contract
 
 
 ## Getting Started
@@ -13,6 +14,9 @@
 * `npx hardhat`
 
 ### Startup
+* activate python venv:
+`source myenv/bin/activate`
+
 * frontend: 
 `cd crypto-candy-crush`
 `npm run dev`

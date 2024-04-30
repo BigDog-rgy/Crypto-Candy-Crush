@@ -27,6 +27,7 @@ contract CRUSHContract {
 
     //q is it possible to mint CRUSH from other players scores
     //q how users will call mint with the score of their gameplay, then calculated to how much CRUSH they recieve
+    //q is it more gas efficient to mint multiple players their CRUSH rewards in single tx/function call
     function mint(address to, uint256 amount) public onlyOwner {
         require(to != address(0), "Cannot mint to the zero address!");
         _balances[to] += amount;
