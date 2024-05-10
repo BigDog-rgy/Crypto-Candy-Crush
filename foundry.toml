@@ -1,2 +1,2 @@
-[dependencies]
+[profile.dependencies]
 forge-std = "github:foundry-rs/forge-std"
