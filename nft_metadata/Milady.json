@@ -1,0 +1,15 @@
+{
+    "name": "Vitalik's Schlong",
+    "description": "Meme Magic – Clears all similar pieces on the board.",
+    "image": "ipfs://Qma2Wsdewe9uR3vXxMKwfgD3Tt2Q1h9G9DinNU3N26ToXH",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "Meme Magic"
+      }
+    ]
+  }
